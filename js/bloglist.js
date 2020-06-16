@@ -5,7 +5,7 @@ function fullPost(){
 function onDeletePost(){
   document.getElementById('deletePostPrompt').style.display='block';
 }
-
+/*yuGDGIQ*/
 
 function onCloseDeleteClicked() {
   document.getElementById('deletePostPrompt').style.display='none';
